@@ -1,9 +1,9 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 
-<p align="center">
+<p style='textalign="center"'>
  
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Fuse.The-Fuse)
 </p>
