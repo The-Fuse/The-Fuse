@@ -2,11 +2,11 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 
-<p style='textalign="center"'>
- 
-<h1> Hi there 👋 </h1>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Fuse.The-Fuse)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Fuse.The-Fuse)<br>
+ 
+[![HitCount](http://hits.dwyl.com/The-Fuse/The-Fuse.svg)](http://hits.dwyl.com/The-Fuse/The-Fuse)
 </p>
 
 <p align="center">
