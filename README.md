@@ -8,7 +8,6 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Fuse.The-Fuse)<br>
  
-[![HitCount](http://hits.dwyl.com/The-Fuse/The-Fuse.svg)](http://hits.dwyl.com/The-Fuse/The-Fuse)
 </p>
 
 <p align="center">
