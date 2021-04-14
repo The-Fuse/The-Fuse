@@ -9,10 +9,6 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Fuse.The-Fuse)<br>
  
 </p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Fuse&&show_icons=true&theme=radical" alt="Rohit's Github Stats">
-</p>
 </div>
 <!--
 **The-Fuse/The-Fuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
