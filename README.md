@@ -15,7 +15,7 @@
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a href="https://github.com/The-Fuse" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 
 <h3>✨ Exploring...</h3>
