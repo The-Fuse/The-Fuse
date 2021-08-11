@@ -16,7 +16,6 @@
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 
 <h3>✨ Exploring...</h3>
@@ -28,8 +27,9 @@
 <h3>💬 Contact Me</h3>
 
 - Linkedin - <a href="https://www.linkedin.com/in/rohitkumar-yadav/">Rohit Kumar</a>
-- Twitter - <a href="https://twitter.com/_ro_hit_yadav">_ro_hit_yadav</a>
+- Twitter - <a href="https://twitter.com/_ro_hit_yadav">@_ro_hit_yadav</a>
 - Blogs - <a href="http://rohitkumary.blogspot.com/"> Technical Blogs<a/>
+- Medium - <a href="https://medium.com/@rohitky"> @rohitky<a/>
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=The-Fuse&show_icons=true&hide_border=true)
 
