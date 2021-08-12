@@ -31,9 +31,10 @@
 - Blogs - <a href="http://rohitkumary.blogspot.com/"> Technical Blogs<a/>
 - Medium - <a href="https://medium.com/@rohitky"> @rohitky<a/>
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=The-Fuse&show_icons=true&hide_border=true) &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Fuse&layout=compact" alt="Most used Languages" width="43%" />
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=The-Fuse&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats"  width="50%"/> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Fuse&layout=compact" alt="Most used Languages" width="42%" />
+</p>
 
 
 <p> 
