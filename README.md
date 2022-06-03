@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Rohit <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
+<h2> Hey there! I'm Rohit</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
