@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Former SDE Android Intern at Groww India</a>.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing bachelors of engineering from <a href="https://www.aitpune.com/">Army Institute of Technology</a>.
 - 🌱 &nbsp; Learning more about Native Android Development, DSA and Artificial Intelligence.
